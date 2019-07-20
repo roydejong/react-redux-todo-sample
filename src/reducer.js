@@ -1,5 +1,3 @@
-// src/reducer.js
-
 import produce from "immer";
 import {ActionTypes} from "./actionTypes";
 

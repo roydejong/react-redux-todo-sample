@@ -1,5 +1,3 @@
-// src/app.js
-
 import React from 'react';
 import {connect} from 'react-redux';
 import {ActionTypes} from './actionTypes.js';
